@@ -1,4 +1,4 @@
-# kicks
+# sneakers
 A web app to buy sneakers 
 ![Screenshot 2023-08-04 013411](https://github.com/HarleenKaur4733/kicks/assets/130078136/9d475b1e-5122-4f90-b017-d88e37aad4a6)
 ![Screenshot 2023-08-04 013421](https://github.com/HarleenKaur4733/kicks/assets/130078136/8c8c3f0c-1784-4010-b771-b6804766ae13)
